@@ -6,6 +6,10 @@ This project focuses on analyzing customer data to understand income distributio
 The objective is to convert raw customer data into meaningful insights that help businesses improve customer targeting and decision-making.
 
 ---
+## Dashboard
+<img width="1112" height="623" alt="image" src="https://github.com/user-attachments/assets/13883bfa-b301-4dcc-8853-74f4bf9c042c" />
+
+---
 
 ## 🎯 Objectives
 - Analyze customer income and spending behavior  
@@ -74,10 +78,6 @@ This dashboard helps businesses:
 
 ---
 
-## Dashboard
-<img width="1112" height="623" alt="image" src="https://github.com/user-attachments/assets/13883bfa-b301-4dcc-8853-74f4bf9c042c" />
-
----
 ## 👩‍💻 Author
 Shubham Ghodake  
 Data Analyst | Power BI Enthusiast
