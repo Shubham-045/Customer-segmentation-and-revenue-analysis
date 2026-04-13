@@ -74,6 +74,10 @@ This dashboard helps businesses:
 
 ---
 
+## Dashboard
+<img width="1112" height="623" alt="image" src="https://github.com/user-attachments/assets/13883bfa-b301-4dcc-8853-74f4bf9c042c" />
+
+---
 ## 👩‍💻 Author
 Shubham Ghodake  
 Data Analyst | Power BI Enthusiast
